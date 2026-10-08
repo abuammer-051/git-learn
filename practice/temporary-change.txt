@@ -1,1 +1,0 @@
-This temporary file exists only to demonstrate git revert.
