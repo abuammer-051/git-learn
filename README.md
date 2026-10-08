@@ -1,4 +1,4 @@
-# Git Learning Practice
+# Git Learning Practice - Right Branch
 
 This repository records practical exercises for Git Tutorial sections 3 and 4.
 
